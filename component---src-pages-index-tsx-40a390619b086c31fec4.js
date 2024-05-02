@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkstudio_m69=self.webpackChunkstudio_m69||[]).push([[691],{7200:function(e,t,n){n.r(t);var a=n(7294);t.default=()=>a.createElement("main",null,a.createElement("h1",null,"Home Page"),a.createElement("a",{href:"/booking"},"book"))}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-40a390619b086c31fec4.js.map

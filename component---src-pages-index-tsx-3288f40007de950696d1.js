@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkstudio_m69=self.webpackChunkstudio_m69||[]).push([[691],{7200:function(e,l,t){t.r(l);var a=t(7294);l.default=()=>a.createElement("main",null,a.createElement("h1",null,"Home Page"),a.createElement("ul",null,a.createElement("li",null,a.createElement("a",{href:"/booking"},"book")),a.createElement("li",null,a.createElement("a",{href:"/page1"},"page 1")),a.createElement("li",null,a.createElement("a",{href:"/page2"},"page 2"))))}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-3288f40007de950696d1.js.map
